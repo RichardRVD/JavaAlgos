@@ -1,5 +1,6 @@
 
 
+
  class singleLinkedList{
     constructor(){
         this.head = null;
@@ -77,6 +78,4 @@
   * @returns {boolean}
   */
  containsRecursive(val, current = this.head) {}
- 
- Message #🏫cohort-alfredos
  
